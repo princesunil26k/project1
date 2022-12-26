@@ -2,3 +2,4 @@ signal application
 red stop
 green go
 amber watch
+30 sec interval
