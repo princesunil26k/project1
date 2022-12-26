@@ -1,0 +1,4 @@
+signal application 
+red stop
+green go
+amber watch
